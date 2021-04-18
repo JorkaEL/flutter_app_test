@@ -1,0 +1,31 @@
+{
+  "list": {
+    "title": "Liste"
+  },
+  "detail": {
+    "title": "Détail",
+    "civil_state": {
+      "title": "État Civile",
+      "civility": "Civilité",
+      "last_name": "Nom",
+      "first_name": "Prénom",
+      "gender": "Genre",
+      "dob": "Date de naissance",
+      "age": "Age",
+      "national": "Nationalité"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email",
+      "phone": "Téléphone",
+      "street": "Rue",
+      "number": "Numéro",
+      "city": "Ville",
+      "country": "Pays",
+      "state": "Région",
+      "postcode": "Code Postale"
+
+    }
+  },
+  "formatDate": "dd-MM-yyyy"
+}
